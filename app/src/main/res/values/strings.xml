@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="location_error">Please accept too access location.</string>
+    <string name="humidity">"Humidity : "</string>
+    <string name="temperature">"Temperature : "</string>
+    <string name="rainchance">"Rain Chance : "</string>
+    <string name="wind">"Wind : "</string>
+    <string name="turnon_location">Turn on location</string>
+    <string name="weatherrepot_error">Please turn on you Location to get weather report</string>
+    <string name="yes">yes</string>
+    <string name="abort">Abort</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
